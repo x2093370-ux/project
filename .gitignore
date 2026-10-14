@@ -1,0 +1,9 @@
+node_modules/
+backend/cloudvault.db
+backend/cloudvault.db-shm
+backend/cloudvault.db-wal
+backend/storage/
+.env
+*.log
+.DS_Store
+desktop.ini
