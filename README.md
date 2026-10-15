@@ -67,3 +67,5 @@ npm run test:ai   # same suite with the AI path, against a mock of the Claude AP
 ## Known limitations
 Sharing is link-based only (no per-user permissions UI), there is no version-history UI, and the
 frontend has no move-by-drag UI (the move API exists). Sessions use a 7-day JWT stored in localStorage.
+
+Last updated: 2026-10-15
